@@ -1,5 +1,13 @@
+
+# QED.jl -- A strong-field particle physics ecosystem
+
+Welcome to the QEDjl-project, where we develop `QED.jl`, a framework to perform
+computations and simulations in strong-field QED and beyond. 
+
+
 ⚠️ DISCLAIMER ⚠️
 
-This organisation contains only a mirror of the `QED.jl` library. Here, the most recent stable and development versions of the packages in `QED.jl` will be stored.
+The `QED.jl` ecosystem is currently under construction, which means the packages
+in this organization, might and will change rapidly in time. However, semantic
+versioning is applyed to indicate breaking changes. 
 
-The actual development of `QED.jl` is done at the [Helmholtz codebase](https://gitlab.hzdr.de/QEDjl). Notice, currently not all developed packages are made public, but will be soon. 
