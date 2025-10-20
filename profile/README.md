@@ -14,11 +14,11 @@ Below is a selection of the core packages within the QEDjl-project ecosystem:
 
 | Package | Purpose |
 |---------|---------|
-| `QuantumElectrodynamics.jl` | The umbrella package: brings together interfaces, utilities and glue logic across sub-packages. |
-| `QEDbase.jl` | Fundamental data types and interfaces: Lorentz vectors, bi-spinors, Dirac matrices, particle states.|
-| `QEDcore.jl` | Core functions, mutable types and advanced operations built on base interfaces.|
-| `QEDprocesses.jl` | Modeling scattering processes: probabilities, cross sections, process definitions. |
-| `QEDevents.jl` | Monte-Carlo event generation and simulation of scattering outcomes. |
-| `QEDfields.jl` | Representation and modeling of electromagnetic fields, e.g., strong-field backgrounds.|
-| `QEDFeynmanDiagrams.jl` | Automatic generation of Feynman diagrams for perturbative QED, with integration into computable DAGs.|
+| [`QuantumElectrodynamics.jl`](https://github.com/QEDjl-project/QuantumElectrodynamics.jl/) | The umbrella package: brings together interfaces, utilities and glue logic across sub-packages. |
+| [`QEDbase.jl`](https://github.com/QEDjl-project/QEDbase.jl/) | Fundamental data types and interfaces: Lorentz vectors, bi-spinors, Dirac matrices, particle states.|
+| [`QEDcore.jl`](https://github.com/QEDjl-project/QEDcore.jl/) | Core functions, mutable types and advanced operations built on base interfaces.|
+| [`QEDprocesses.jl`](https://github.com/QEDjl-project/QEDprocesses.jl/) | Modeling scattering processes: probabilities, cross sections, process definitions. |
+| [`QEDevents.jl`](https://github.com/QEDjl-project/QEDevents.jl/) | Monte-Carlo event generation and simulation of scattering outcomes. |
+| [`QEDfields.jl`](https://github.com/QEDjl-project/QEDfields.jl/) | Representation and modeling of electromagnetic fields, e.g., strong-field backgrounds.|
+| [`QEDFeynmanDiagrams.jl`](https://github.com/QEDjl-project/QEDFeynmanDiagrams.jl/) | Automatic generation of Feynman diagrams for perturbative QED, with integration into computable DAGs.|
 
