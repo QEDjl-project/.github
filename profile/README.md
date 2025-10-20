@@ -20,5 +20,5 @@ Below is a selection of the core packages within the QEDjl-project ecosystem:
 | `QEDprocesses.jl` | Modeling scattering processes: probabilities, cross sections, process definitions. |
 | `QEDevents.jl` | Monte-Carlo event generation and simulation of scattering outcomes. |
 | `QEDfields.jl` | Representation and modeling of electromagnetic fields (e.g., strong-field backgrounds).|
-| `QEDFeynmanDiagrams.jl` | Automatic generation of Feynman diagrams for perturbative QED, with integration into computational DAGs.|
+| `QEDFeynmanDiagrams.jl` | Automatic generation of Feynman diagrams for perturbative QED, with integration into computable DAGs.|
 
