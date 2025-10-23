@@ -16,7 +16,7 @@ Below is a selection of the core physics packages within the QEDjl-project ecosy
 
 | Package | Purpose | Status | Version |
 |---------|---------|---------|---------|
-| [`QuantumElectrodynamics.jl`](https://github.com/QEDjl-project/QuantumElectrodynamics.jl/) | umbrella package which brings everything together | [![][badge-qedjl-pipeline]][main-qedjl-pipeline] | [![][badge-qedjl-version]][status-qedjl-version]|
+| [`QuantumElectrodynamics.jl`](https://github.com/QEDjl-project/QuantumElectrodynamics.jl/) | Umbrella package which brings everything together | [![][badge-qedjl-pipeline]][main-qedjl-pipeline] | [![][badge-qedjl-version]][status-qedjl-version]|
 | [`QEDbase.jl`](https://github.com/QEDjl-project/QEDbase.jl/) | Fundamental interfaces | [![][badge-base-pipeline]][main-base-pipeline] | [![][badge-base-version]][status-base-version]|
 | [`QEDcore.jl`](https://github.com/QEDjl-project/QEDcore.jl/) | Fundamental data types and core functions| [![][badge-core-pipeline]][main-core-pipeline] | [![][badge-core-version]][status-core-version]|
 | [`QEDprocesses.jl`](https://github.com/QEDjl-project/QEDprocesses.jl/) | Modeling scattering processes: probabilities, cross sections, process definitions. | [![][badge-procs-pipeline]][main-procs-pipeline] | [![][badge-procs-version]][status-procs-version]|
@@ -34,7 +34,7 @@ Additionally, the following are also monitored and developed for the QEDjl proje
 | Package | Purpose | Status | Version |
 |---------|---------|---------|---------|
 | [`ComputableDAGs.jl`](https://github.com/ComputableDAGs/ComputableDAGs.jl) | Representation of Computations as Directed Acyclic Graphs | [![][badge-cdags-pipeline]][main-cdags-pipeline] | [![][badge-cdags-version]][status-cdags-version]|
-| [`IntegrationTests.jl`](https://github.com/QEDjl-project/IntegrationTests.jl) | Representation of Computations as Directed Acyclic Graphs | [![][badge-integtests-pipeline]][main-integtests-pipeline] | [![][badge-integtests-version]][status-integtests-version]|
+| [`IntegrationTests.jl`](https://github.com/QEDjl-project/IntegrationTests.| Testing framework for interoperability | [![][badge-integtests-pipeline]][main-integtests-pipeline] | [![][badge-integtests-version]][status-integtests-version]|
 
 </div>
 
