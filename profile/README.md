@@ -34,7 +34,7 @@ Additionally, the following are also monitored and developed for the QEDjl proje
 | Package | Purpose | Status | Version |
 |---------|---------|---------|---------|
 | [`ComputableDAGs.jl`](https://github.com/ComputableDAGs/ComputableDAGs.jl) | Representation of Computations as Directed Acyclic Graphs | [![][badge-cdags-pipeline]][main-cdags-pipeline] | [![][badge-cdags-version]][status-cdags-version]|
-| [`IntegrationTests.jl`](https://github.com/QEDjl-project/IntegrationTests.| Testing framework for interoperability | [![][badge-integtests-pipeline]][main-integtests-pipeline] | [![][badge-integtests-version]][status-integtests-version]|
+| [`IntegrationTests.jl`](https://github.com/QEDjl-project/IntegrationTests.jl)| Testing framework for interoperability | [![][badge-integtests-pipeline]][main-integtests-pipeline] | [![][badge-integtests-version]][status-integtests-version]|
 
 </div>
 
