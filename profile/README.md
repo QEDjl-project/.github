@@ -35,6 +35,7 @@ Additionally, the following are also monitored and developed for the QEDjl proje
 |---------|---------|---------|---------|
 | [`ComputableDAGs.jl`](https://github.com/ComputableDAGs/ComputableDAGs.jl) | Representation of Computations as Directed Acyclic Graphs | [![][badge-cdags-pipeline]][main-cdags-pipeline] | [![][badge-cdags-version]][status-cdags-version]|
 | [`IntegrationTests.jl`](https://github.com/QEDjl-project/IntegrationTests.jl)| Testing framework for interoperability | [![][badge-integtests-pipeline]][main-integtests-pipeline] | [![][badge-integtests-version]][status-integtests-version]|
+| [`RejectionSamplers.jl`](https://github.com/QEDjl-project/RejectionSamplers.jl)| Hardware-agnostic parallel rejection sampling | [![][badge-rejecsamplers-pipeline]][main-rejecsamplers-pipeline] | [![][badge-rejecsamplers-version]][status-rejecsamplers-version]|
 
 </div>
 
@@ -67,6 +68,9 @@ Additionally, the following are also monitored and developed for the QEDjl proje
 [badge-integtests-pipeline]: https://img.shields.io/github/actions/workflow/status/QEDjl-project/IntegrationTests.jl/CI.yml?label=CI&logo=GitHub
 [main-integtests-pipeline]: https://github.com/QEDjl-project/IntegrationTests.jl/actions/workflows/CI.yml
 
+[badge-rejecsamplers-pipeline]: https://img.shields.io/gitlab/pipeline-status/hzdr%2Fqedjl-project%2FRejectionSamplers-jl?branch=main&logo=GitLab&label=CI
+[main-rejecsamplers-pipeline]: https://gitlab.com/hzdr/qedjl-project/RejectionSamplers-jl/-/commits/dev
+
 <!-- versions -->
 
 [badge-qedjl-version]: https://juliahub.com/docs/General/QuantumElectrodynamics/stable/version.svg
@@ -95,3 +99,7 @@ Additionally, the following are also monitored and developed for the QEDjl proje
 
 [badge-integtests-version]: https://juliahub.com/docs/General/IntegrationTests/stable/version.svg
 [status-integtests-version]: https://juliahub.com/ui/Packages/General/IntegrationTests
+
+[badge-rejecsamplers-version]: https://juliahub.com/docs/General/RejectionSamplers/stable/version.svg
+[status-rejecsamplers-version]: https://juliahub.com/ui/Packages/General/RejectionSamplers
+
